@@ -1,0 +1,31 @@
+.body-background {
+    background-image: url("light-blue-vector-illustration-which-260nw-606028748 (1).jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+body{
+    cursor: pointer;
+
+}
+ 
+h1
+{
+    color:red;
+    font-size: 20px;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;;
+    border-style: ridge;
+}
+
+button {
+ background-color: #4CAF50;
+ border:none;
+ color:white;
+ padding: 10px 42px;
+ font-size: 16px;
+
+}
